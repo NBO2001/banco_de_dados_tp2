@@ -1,0 +1,12 @@
+*.csv
+*.out
+*.json
+*.bin
+*.o
+*.log
+findrec
+seek1
+pri
+sec
+seek2
+upload
